@@ -101,7 +101,4 @@ ENV/
 .mypy_cache/
 
 .idea/
-django_blog.iml
-misc.xml
-modules.xml
-workspace.xml
+/django_blog/.idea/
